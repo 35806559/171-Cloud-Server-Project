@@ -11,7 +11,8 @@ Steps Followed:
 -	On WordPress, customized website
 -	Used GoDaddy to create Domian: kixs.online
 -	Documentation in GitHub
-Commands Used
+
+Commands Used:
 -	To connect to a remote server
   
  <img width="940" height="32" alt="image" src="https://github.com/user-attachments/assets/dc52705e-0f0a-475d-8371-042dfcbae7a5" />
@@ -29,6 +30,7 @@ Commands Used
 <img width="564" height="47" alt="image" src="https://github.com/user-attachments/assets/9a7d53d7-7799-40ab-b5cf-ca6d5c549df3" />
 
 Video Link
+https://youtu.be/jk8HVPGIcDk
 
 References
 https://www.youtube.com/watch?v=d8UykXD85m8
